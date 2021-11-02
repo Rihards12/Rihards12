@@ -1,2 +1,2 @@
-- 👋 Hi, I’m @Rihards12
+- 👋 Hi, I’m @ Rihards Ivanovs
 - 👀 I’m web-development
