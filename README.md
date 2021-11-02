@@ -1,2 +1,2 @@
 - 👋 Hi, I’m @Rihards12
-- 👀 I’m web-dev
+- 👀 I’m web-development
